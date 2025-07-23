@@ -1,0 +1,24 @@
+﻿SPRINT RETROSPECTIVE
+O que funcionou bem:
+
+
+°As Branchs Apesar de ser minha primeira vez tive menos problemas do que esperava
+°Enviar Os Arquivos
+
+
+O que não funcionou Bem:
+
+
+1. Criei uma branch com nome errado ou inválido (ex: indexs^F).
+
+2. O arquivo index.html foi deletado ao fazer merge da branch contato na main.
+
+3. Erro ao trocar de branch por causa de arquivos não rastreados (index.html) que seriam sobrescritos.
+
+4. Permissão negada para deletar o arquivo index.html (interferência do antivírus).
+
+5. Tentou dar push para uma branch que não existia (indexs em vez de index).
+
+6. Commit feito no arquivo errado (commit no index.html em vez do contato.html).
+
+7. Dificuldade para trocar de branch por causa do arquivo index.html bloqueando a  operação.

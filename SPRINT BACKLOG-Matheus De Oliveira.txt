@@ -1,0 +1,59 @@
+﻿SPRINT BACKLOG
+
+
+
+
+Nessa Sprint Tivemos 2 Demandas Que Precisaram ser resolvidas:
+
+
+ID3:
+
+
+Como cliente da empresa e usuário do portal, eu quero, na página index, ver a fonte com os nomes
+
+
+dos veículos na cor azul para me proporcionar uma melhor experiência de usuário
+
+
+Esforço Estimado: 7 minutos
+
+
+Status:Concluído
+
+
+Responsável:Matheus De Oliveira Salomão
+
+
+Entrega: 23|07|2025
+
+
+
+
+
+
+
+
+ID3:
+
+
+Como cliente da empresa e usuário do portal, eu quero, na página contato, que os nomes dos links
+
+
+para as outras páginas sejam mais detalhadas para facilitar o meu entendimento e a minha
+
+
+navegação no portal.
+
+
+
+
+Esforço Estimado: 20 Minutos
+
+
+Status:Concluído
+
+
+Responsável: Matheus De Oliveira Salomão
+
+
+Entrega: 23|07|2025
